@@ -1,7 +1,7 @@
 #define BLYNK_PRINT Serial
 // You should get Auth Token in the Blynk App.
-#define BLYNK_TEMPLATE_ID           "BANLINHKIEN"
-#define BLYNK_TEMPLATE_NAME         "BANLINHKIEN"
+#define BLYNK_TEMPLATE_ID        
+#define BLYNK_TEMPLATE_NAME         
 char BLYNK_AUTH_TOKEN[32]   =   "";
 // Import required libraries
 #include <WiFi.h>
